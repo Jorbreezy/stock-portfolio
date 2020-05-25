@@ -1,0 +1,12 @@
+ul { 
+  text-decoration: none;
+  list-style-type: none;
+  justify-content: end;
+  display: flex;
+}
+
+ul li {
+  display: inline;
+  margin: 5px;
+  right: 0;
+}
